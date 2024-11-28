@@ -4,7 +4,7 @@ print("""
 |                Selamat datang!               |
 |             di Aplikasi MaskSure             |
 +----------------------------------------------+
-    THIS IS FOR COMPUTER VISION PURPOSE ONLY!
+    THIS IS FOR COMPUTER VISION PURPOSES ONLY!
 
 """)
 

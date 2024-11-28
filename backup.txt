@@ -1,0 +1,1 @@
+self.m.after(2000, lambda: (self.preload_label.destroy(), self.home()))
