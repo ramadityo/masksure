@@ -1,10 +1,10 @@
-<h1 style="font-family:'Arial', sans-serif; text-align:center;font-size:2rem;">MaskSure<br><span style="font-weight:normal;font-size: 1.5rem;">Detecting Masks, Saving Lives.</span></h1>
+<h1 style=" text-align:center;">MaskSure<br><span style="font-weight:normal;">Detecting Masks, Saving Lives.</span></h1>
 
 ![](assets/20241128_214330_masksure.png)
 
 # Apa ini?
 
-Halo! Jadi gini, MaskSure adalah aplikasi keren yang dibuat sebagai proyek tugas akhir semester buat mata kuliah Visi Komputer. Intinya, ini bukan cuma soal ngerjain tugas aja, tapi juga eksperimen seru di dunia teknologi.
+Halo! Jadi gini, MaskSure adalah aplikasi keren yang dibuat sebagai proyek tugas akhir semester lima buat mata kuliah Visi Komputer. Intinya, ini bukan cuma soal ngerjain tugas aja, tapi juga eksperimen seru di dunia teknologi, dan juga untuk memperbagus portfolio, hehe.
 
 # Tujuan utamanya?
 
@@ -13,3 +13,7 @@ Sederhana tapi penting, ya untuk deteksi orang yang pakai masker atau nggak. Jad
 Mungkin nggak sempurna kayak aplikasi buatan perusahaan besar, tapi sebagai karya mahasiswa, MaskSure ini udah cukup nendang.
 
 # Teknologi yang dipakai
+
+Biar aplikasi ini bisa jalan dengan mulus, ada beberapa teknologi yang kami pakai. Di antaranya adalah:
+
+<ol><li><p>Tkinter</p>Ini dia si andalan buat bikin GUI alias tampilan aplikasinya. Dengan Tkinter, kita bisa bikin antarmuka yang simpel tapi cukup keren buat pengguna. Pokoknya biar aplikasi nggak cuma kerja doang, tapi juga enak dilihat!</li><li><p>YOLO algorithm</p>YOLO adalah algoritma buat object detection yang super cepat dan akurat. Jadi, si MaskSure ini bisa langsung ngecek siapa yang pakai masker dan siapa yang enggak cuma dengan sekali lihat.</li><li><p>Pillow (PIL)</p>Buat urusan gambar, kita serahin ke Pillow. Library ini bantu ngatur image processing yang simpel, kayak nge-resize, atau sekadar bantu aplikasi biar lancar nge-handle gambar.</li></ol>
