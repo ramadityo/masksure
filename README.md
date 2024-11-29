@@ -1,4 +1,4 @@
-<h1 style=" text-align:center;">MaskSure<br><span style="font-weight:normal;">Detecting Masks, Saving Lives.</span></h1>
+<center><h1 style=" text-align:center;">MaskSure<br><span style="font-weight:normal;">Detecting Masks, Saving Lives.</span></h1></center>
 
 ![](assets/20241128_214330_masksure.png)
 
