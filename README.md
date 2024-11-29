@@ -10,13 +10,13 @@
 
 # What's this?
 
-Hello! MaskSure is an amazing app that was created as a final project for the Computer Vision course. It's not just about doing an assignment; it's also a great opportunity to have some fun in the world of technology and to improve my portfolio!
+<p align=justify>Hello! MaskSure is an amazing app that was created as a final project for the Computer Vision course. It's not just about doing an assignment; it's also a great opportunity to have some fun in the world of technology and to improve my portfolio!</p>
 
 # Main goals
 
-It's a simple yet crucial feature that allows users to detect whether others are wearing masks or not. With the help of cutting-edge object detection technology, this application can ensure that everyone is following the rules and keeping our communities safe.
+<p align=justify>It's a simple yet crucial feature that allows users to detect whether others are wearing masks or not. With the help of cutting-edge object detection technology, this application can ensure that everyone is following the rules and keeping our communities safe.</p>
 
-While it might not be perfect, like apps made by big companies, MaskSure is already an amazing achievement by a student.
+<p align=justify>While it might not be perfect, like apps made by big companies, MaskSure is already an amazing achievement by a student.</p>
 
 # Tech Stacks
 
