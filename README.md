@@ -1,8 +1,12 @@
-<center><h1>MaskSure</h1></center>
+<div align=center>
+  <h1><b>MaskSure</b></h1>
+</div>
 
 ![](assets/20241128_214330_masksure.png)
 
-<center>Detecting Masks, Saving Lives</center>
+<div align=center>
+  Detecting Mask, Saving Lives.
+</div>
 
 # Apa ini?
 
