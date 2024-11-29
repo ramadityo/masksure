@@ -8,18 +8,18 @@
   Detecting Mask, Saving Lives.
 </div>
 
-# Apa ini?
+# What's this?
 
-Halo! Jadi gini, MaskSure adalah aplikasi keren yang dibuat sebagai proyek tugas akhir semester lima buat mata kuliah Visi Komputer. Intinya, ini bukan cuma soal ngerjain tugas aja, tapi juga eksperimen seru di dunia teknologi, dan juga untuk memperbagus portfolio, hehe.
+Hello! MaskSure is an amazing app that was created as a final project for the Computer Vision course. It's not just about doing an assignment; it's also a great opportunity to have some fun in the world of technology and to improve my portfolio!
 
-# Tujuan utamanya?
+# Main goals
 
-Sederhana tapi penting, ya untuk deteksi orang yang pakai masker atau nggak. Jadi, dengan bantuan teknologi _object detection_, aplikasi ini bisa ngecek siapa yang udah patuh prokes dan siapa yang belum.
+It's a simple yet crucial feature that allows users to detect whether others are wearing masks or not. With the help of cutting-edge object detection technology, this application can ensure that everyone is following the rules and keeping our communities safe.
 
-Mungkin nggak sempurna kayak aplikasi buatan perusahaan besar, tapi sebagai karya mahasiswa, MaskSure ini udah cukup nendang.
+While it might not be perfect, like apps made by big companies, MaskSure is already an amazing achievement by a student.
 
-# Teknologi yang dipakai
+# Tech Stacks
 
-Biar aplikasi ini bisa jalan dengan mulus, ada beberapa teknologi yang kami pakai. Di antaranya adalah:
+To keep this app running smoothly, we use a few different technologies. Some of them are:
 
-<ol><li><p>Tkinter</p>Ini dia si andalan buat bikin GUI alias tampilan aplikasinya. Dengan Tkinter, kita bisa bikin antarmuka yang simpel tapi cukup keren buat pengguna. Pokoknya biar aplikasi nggak cuma kerja doang, tapi juga enak dilihat!</li><li><p>YOLO algorithm</p>YOLO adalah algoritma buat object detection yang super cepat dan akurat. Jadi, si MaskSure ini bisa langsung ngecek siapa yang pakai masker dan siapa yang enggak cuma dengan sekali lihat.</li><li><p>Pillow (PIL)</p>Buat urusan gambar, kita serahin ke Pillow. Library ini bantu ngatur image processing yang simpel, kayak nge-resize, atau sekadar bantu aplikasi biar lancar nge-handle gambar.</li></ol>
+<ol><li><p>Tkinter</p>This is the foundation for creating the GUI, or the look and feel of the application. With Tkinter, we can build an interface that is straightforward but stylish enough for users. The app works great, and it's also visually appealing!</li><li><p>YOLO algorithm</p>YOLO is an amazing algorithm for object detection that is lightning fast and incredibly accurate. That means the MaskSure can instantly tell who is wearing a mask and who is not with just one look!</li><li><p>Pillow (PIL)</p>When it comes to images, we use Pillow. This library helps with simple image processing, such as resizing, and makes it easier for the app to handle images.</li></ol>
