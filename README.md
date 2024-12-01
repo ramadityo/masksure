@@ -43,7 +43,7 @@ py -m venv .venv
 ```
 
 ```bash
-py -m venv .venv
+.venv\Scripts\activate
 ```
 
 For Linux
