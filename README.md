@@ -28,13 +28,13 @@ To keep this app running smoothly, we use a few different technologies. Some of 
 
 To use this application, you need to do a few things to make it work:
 
-<ol start="1"><li>Clone this repository</li></ol>
+###### 1. Clone this repository
 
 ```bash
 git clone https://github.com/ramadityo/masksure.git
 ```
 
-<ol start="2"><li>Add python env to the app folder</li></ol>
+###### 2. Add python env to the app folder
 
 For Windows:
 
@@ -56,7 +56,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-<ol start="3"><li>Install libraries from requirements.txt</li></ol>
+###### 3. Install libraries from requirements.txt
 
 ```bash
 pip install -r requirements.txt
@@ -68,7 +68,7 @@ or
 pip3 install -r requirements.txt
 ```
 
-<ol start="4"><li>Run the app</li></ol>
+###### 4. Run the app
 
 For Windows:
 
