@@ -1,6 +1,4 @@
 import streamlit as st
-from PIL import Image
-from detection import Detection
 import matplotlib.pyplot as plt
 import pandas as pd
 
@@ -42,6 +40,7 @@ if UPLOAD_IMAGE is not None:
     st.image(img)
 
     if st.button("Deteksi gambar!"):
+        
         img_result, stats = Detection.detect(img)
         st.image(img_result)
 
